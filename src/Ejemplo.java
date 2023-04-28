@@ -6,7 +6,7 @@ public class Ejemplo {
 
 		System.out.println("Hola");
 		
-		String nombre = "Paula García";
+		String nombre = "Paula García-Miguel";
 		
 		System.out.println(nombre);
 		
