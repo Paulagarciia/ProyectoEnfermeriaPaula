@@ -74,6 +74,7 @@ public class Principal {
 				System.out.println("La superficie corporal es de " + superficie_corporal + " m2");
 				System.out.println("La dosis a administrar es de " + dosis_a_administrar + " mg");		
 		
+				
 	}
 
 }
